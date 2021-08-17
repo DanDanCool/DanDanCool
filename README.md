@@ -1,6 +1,10 @@
 ![This is what I look like in real life](https://avatars.githubusercontent.com/u/34756545?v=4)
 ### Have you heard of Neovim?
 
+## Projects
+- [vim config](https://github.com/DanDanCool/config) (I'm very proud of it)
+- [fuzzy finder](https://github.com/DanDanCool/fuzzy) (less proud of this though)
+
 ## Languages:
 - C (my favorite)
 - C++
@@ -9,10 +13,6 @@
 - Java
 - Rust
 - Go
-
-## Projects
-- [vim config](https://github.com/DanDanCool/config) (I'm very proud of it)
-- [fuzzy finder](https://github.com/DanDanCool/fuzzy) (less proud of this though)
 
 ## Interests
 - Computer Graphics
