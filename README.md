@@ -1,16 +1,41 @@
-### Hi there 👋
+### Have you heard of Neovim?
 
-<!--
-**DanDanCool/DanDanCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages:
+- C (my favorite)
+- C++
+- Lua
+- Python
+- Java
+- Rust
+- Go
 
-Here are some ideas to get you started:
+## Projects
+- [vim config](https://github.com/DanDanCool/config) (I'm very proud of it)
+- [fuzzy finder](https://github.com/DanDanCool/fuzzy) (less proud of this though)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Computer Graphics
+- Game Engines
+- C & C++
+- Neovim
+- Exercising
+
+# ⚡ About Me
+  typedef struct
+  {
+    const char* name;
+    char** pronouns;
+    char** dislikes;
+    char** likes;
+  } about;
+  
+	char* pronouns[2] = { "he", "him" };
+	char* dislikes[2] = { "java", "vscode" };
+	char* likes[4] = { "neovim", "c", "c++", "luajit" };
+
+	about me = (about){
+		.name = "Daniel",
+		.pronouns = pronouns,
+		.dislikes = dislikes,
+		.likes = likes
+	}
