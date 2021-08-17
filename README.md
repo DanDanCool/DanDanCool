@@ -21,13 +21,13 @@
 - Exercising
 
 # ⚡ About Me
-  typedef struct
-  {
-    const char* name;
-    char** pronouns;
-    char** dislikes;
-    char** likes;
-  } about;
+	typedef struct
+	{
+		const char* name;
+		char** pronouns;
+		char** dislikes;
+		char** likes;
+	} about;
   
 	char* pronouns[2] = { "he", "him" };
 	char* dislikes[2] = { "java", "vscode" };
