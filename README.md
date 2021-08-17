@@ -35,10 +35,11 @@ char* pronouns[2] = { "he", "him" };
 char* dislikes[2] = { "java", "vscode" };
 char* likes[4] = { "neovim", "c", "c++", "luajit" };
 
+// I used to have stockholme syndrome from visual studio...
 about me = (about){
 	.name = "Daniel",
 	.pronouns = pronouns,
 	.dislikes = dislikes,
 	.likes = likes
-}
+};
 ```
