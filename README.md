@@ -1,3 +1,4 @@
+![This is what I look like in real life](https://avatars.githubusercontent.com/u/34756545?v=4)
 ### Have you heard of Neovim?
 
 ## Languages:
@@ -21,21 +22,23 @@
 - Exercising
 
 # ⚡ About Me
-	typedef struct
-	{
-		const char* name;
-		char** pronouns;
-		char** dislikes;
-		char** likes;
-	} about;
+```c
+typedef struct
+{
+	const char* name;
+	char** pronouns;
+	char** dislikes;
+	char** likes;
+} about;
   
-	char* pronouns[2] = { "he", "him" };
-	char* dislikes[2] = { "java", "vscode" };
-	char* likes[4] = { "neovim", "c", "c++", "luajit" };
+char* pronouns[2] = { "he", "him" };
+char* dislikes[2] = { "java", "vscode" };
+char* likes[4] = { "neovim", "c", "c++", "luajit" };
 
-	about me = (about){
-		.name = "Daniel",
-		.pronouns = pronouns,
-		.dislikes = dislikes,
-		.likes = likes
-	}
+about me = (about){
+	.name = "Daniel",
+	.pronouns = pronouns,
+	.dislikes = dislikes,
+	.likes = likes
+}
+```
