@@ -10,6 +10,7 @@
 - C++
 - Lua
 - Python
+- x86 Assembly
 - Java
 - Rust
 - Go
@@ -20,6 +21,7 @@
 - C & C++
 - Neovim
 - Exercising
+- Assembly
 
 # ⚡ About Me
 ```c
