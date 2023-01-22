@@ -1,1 +1,1 @@
-(https://avatars.githubusercontent.com/u/34756545?v=4)
+![avatar](https://avatars.githubusercontent.com/u/34756545?v=4)
